@@ -15,9 +15,9 @@
 ```
 manu-html/
 │
-├── coracao-gif.png         ❤️ Imagem GIF usada no projeto
-├── index.html              📄 Arquivo HTML principal
-└── style.css               🎨 Arquivo CSS com os estilos da página
+├── coracao-gif.png         Imagem GIF usada no projeto
+├── index.html              Arquivo HTML principal
+└── style.css               Arquivo CSS com os estilos da página
 ```
 
 ---
