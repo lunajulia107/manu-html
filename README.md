@@ -1,4 +1,4 @@
-# manu-html
+# manuHTML
 
 Projeto simples em HTML e CSS criado para ensinar conceitos básicos de desenvolvimento web para minha prima.
 
